@@ -269,4 +269,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Brave AI Mode API to monitor your brand's visibility in privacy-first AI search.*
 
-Last Updated: 2026.07.13
+Last Updated: 2026.07.14
